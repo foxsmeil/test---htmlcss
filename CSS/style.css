@@ -1,0 +1,113 @@
+body {
+    color: #FFFFFF;
+    font-family: "DM Sans";
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 88px;
+}
+
+.header-fon {
+    background-color: #000000;
+}
+
+.desc-title {
+    color:#118DA8;
+    font-family: DM Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.desc-title-size-blue {
+    color:#118DA8;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.desc-title-fon {
+    color:#FFFFFF;
+    font-family: DM Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.footer-fon {
+    color:#FFFFFF;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.desc-title-size {
+    font-family: DM Sans;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+}
+
+.desc-title-author {
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+}
+
+.desc-text-author {
+    font-family: DM Sans;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 43.2px;
+}
+
+.desc-text-microphone {
+    font-family: DM Sans;
+    font-size: 57px;
+    font-weight: 400;
+    line-height: 70.4px;
+}
+
+.desc-text-mic {
+    font-family: DM Sans;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 70.4px;
+}
+
+.desc-title-author-little {
+    font-family: DM Sans;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 28.8px;
+}
+
+.desc-email {
+    font-family: DM Sans;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 79.2px;
+}
+
+.desc-bold {
+    font-family: "DM Sans";
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 88px;
+}
+
+.desc-listen {
+    font-family: DM Sans;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.desc-section {
+    font-family: DM Sans;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 79.2px;
+}
